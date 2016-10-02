@@ -192,6 +192,7 @@ int Coursera::getLovelyNoFromZero(int num)
 
 
 	used.insert(str[0] - '0');
+	//i : index of string
 	for (int i = 1; i < n; ++i)
 	{
 		tmp = 0;
