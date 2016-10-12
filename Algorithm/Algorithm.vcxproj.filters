@@ -30,6 +30,12 @@
     <ClCompile Include="Coursera.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C150.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Yahoo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ParseFile.h">
@@ -39,6 +45,12 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Coursera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C150.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Yahoo.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
